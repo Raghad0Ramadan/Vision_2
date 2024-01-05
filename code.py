@@ -1,6 +1,3 @@
-#Done by Raghad Ramadan
-#student num :32109303032
-
 import cv2
 import numpy as np
 
